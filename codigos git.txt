@@ -1,8 +1,0 @@
-
-
-git status                               -serve para checar o status
-git checkout exemplo                     -serve para mudar de branches
-git commit -m 'texte exemplo'            -fazer uma commit
-git merge exemplo                        -mesclar as commits
-git add .                                -add todas as alterações
-git push --all                           -subir todas as alterações
