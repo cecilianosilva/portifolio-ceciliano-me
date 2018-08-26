@@ -1,0 +1,22 @@
+{
+  "name": "ceciliano-me",
+  "version": "1.0.0",
+  "description": "Esse é apenas o meu primeiro projeto, ainda estou aprendendo. Obrigado!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecilianosilva/portifolio-ceciliano-me.git"
+  },
+  "author": "Ceciliano Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecilianosilva/portifolio-ceciliano-me/issues"
+  },
+  "homepage": "https://github.com/cecilianosilva/portifolio-ceciliano-me#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
